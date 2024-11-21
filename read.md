@@ -15,3 +15,7 @@
 # })
 
 # step: 2
+# backend socket.io 
+
+# step: 3
+# frontend setup
